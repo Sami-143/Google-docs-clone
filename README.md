@@ -42,10 +42,10 @@ Here's what you need to be able to run the application locally:
 
 ### 🟢 Setup (without Docker) :
 
-1. Clone the repo. (or fork https://github.com/KshitijTodkar48/Google-Docs-Clone/fork).
+1. Clone the repo. (or fork https://github.com/Sami-143/Google-docs-clone).
 
    ```sh
-   git clone https://github.com/KshitijTodkar48/Google-Docs-Clone.git
+   git clone https://github.com/Sami-143/Google-docs-clone.git
    ```
 
 2. Go to the server directory.
@@ -109,23 +109,3 @@ Here's what you need to be able to run the application locally:
     ```
     
  The React app will be running on http://localhost:5173
-
-
-## 🐋 Setup (with Docker) :
-
-1. Set up environment variables:
-   - Follow the steps 4 and 8 in the above 'Setup without docker' guide.
-     
-
-2. Run the following command in the root directory: 
-    ```sh
-    docker-compose up
-    ```
-
-Now the application will be running on http://localhost:5173
-
-
-## ▶️ Preview
-
-https://github.com/KshitijTodkar48/Google-Docs-Clone/assets/120639775/a7dc1200-3617-4214-b065-339a55eaad59
-
