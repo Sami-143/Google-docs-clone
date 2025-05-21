@@ -1,7 +1,7 @@
-## ⭐ Introduction
+## Introduction
  This project is a clone of 'Google Docs', designed to provide a collaborative document editing experience similar to Google Docs. It allows multiple users to create, edit, and collaborate on documents in real-time.
 
-## 🟢 Features
+## Features
 
 - **Document Creation and Storage:** Users can create new documents and store them securely in the database.
 - **Real-time Document Editing:** Multiple users can collaborate and edit the same document simultaneously, with changes reflected instantly for all participants.
